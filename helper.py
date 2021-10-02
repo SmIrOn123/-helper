@@ -1,3 +1,7 @@
+#Calc
+#
+#Russia laung
+
 from fractions import Fraction
 from os import system
 from random import choice
